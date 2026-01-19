@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000.0001"
+   height="1000.0001"
+   viewBox="0 0 264.58335 264.58335"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">logo</title>
+  <defs
+     id="defs1">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect6">
+      <path
+         id="mask-powermask-path-effect6_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M -27.458332,-27.458332 H 133.29167 V 133.29167 H -27.458332 Z" />
+      <g
+         id="g6"
+         style="">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="circle5"
+           cx="52.916664"
+           cy="52.916664"
+           r="52.916664"
+           d="M 105.83333,52.916664 A 52.916664,52.916664 0 0 1 52.916664,105.83333 52.916664,52.916664 0 0 1 0,52.916664 52.916664,52.916664 0 0 1 52.916664,0 52.916664,52.916664 0 0 1 105.83333,52.916664 Z" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="rect5"
+           width="52.916664"
+           height="52.916664"
+           x="-1.4210855e-14"
+           y="-1.4210855e-14"
+           d="M 0,0 H 52.916664 V 52.916664 H 0 Z" />
+      </g>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect7">
+      <path
+         id="mask-powermask-path-effect7_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 131.29167,-27.458332 h 160.75 V 133.29167 h -160.75 z" />
+      <g
+         id="g7"
+         style="">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="circle6"
+           cx="211.66666"
+           cy="52.916664"
+           r="52.916664"
+           d="M 264.58332,52.916664 A 52.916664,52.916664 0 0 1 211.66666,105.83333 52.916664,52.916664 0 0 1 158.74999,52.916664 52.916664,52.916664 0 0 1 211.66666,0 52.916664,52.916664 0 0 1 264.58332,52.916664 Z" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="rect6"
+           width="52.916664"
+           height="52.916664"
+           x="211.66666"
+           y="0"
+           d="m 211.66666,0 h 52.91666 v 52.916664 h -52.91666 z" />
+      </g>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect8">
+      <path
+         id="mask-powermask-path-effect8_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M -27.458332,131.29167 H 133.29167 v 160.75 H -27.458332 Z" />
+      <g
+         id="g8"
+         style="">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="circle7"
+           cx="52.916664"
+           cy="211.66666"
+           r="52.916664"
+           d="M 105.83333,211.66666 A 52.916664,52.916664 0 0 1 52.916664,264.58332 52.916664,52.916664 0 0 1 0,211.66666 52.916664,52.916664 0 0 1 52.916664,158.74999 52.916664,52.916664 0 0 1 105.83333,211.66666 Z" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="rect7"
+           width="52.916664"
+           height="52.916664"
+           x="0"
+           y="211.66666"
+           d="m 0,211.66666 h 52.916664 v 52.91666 H 0 Z" />
+      </g>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect9">
+      <path
+         id="mask-powermask-path-effect9_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 131.29167,131.29167 h 160.75 v 160.75 h -160.75 z" />
+      <g
+         id="g9"
+         style="">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="circle8"
+           cx="211.66666"
+           cy="211.66666"
+           r="52.916664"
+           d="m 264.58332,211.66666 a 52.916664,52.916664 0 0 1 -52.91666,52.91666 52.916664,52.916664 0 0 1 -52.91667,-52.91666 52.916664,52.916664 0 0 1 52.91667,-52.91667 52.916664,52.916664 0 0 1 52.91666,52.91667 z" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="rect8"
+           width="52.916664"
+           height="52.916664"
+           x="211.66666"
+           y="211.66666"
+           d="m 211.66666,211.66666 h 52.91666 v 52.91666 h -52.91666 z" />
+      </g>
+    </mask>
+  </defs>
+  <g
+     id="layer1">
+    <path
+       style="fill:#300a24;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path1"
+       mask="url(#mask-powermask-path-effect6)"
+       d="m 132.29167,52.916668 a 79.375,79.375 0 0 1 -79.375002,79.375002 79.375,79.375 0 0 1 -79.375,-79.375002 79.375,79.375 0 0 1 79.375,-79.375 79.375,79.375 0 0 1 79.375002,79.375 z" />
+    <path
+       style="fill:#300a24;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path1-8"
+       mask="url(#mask-powermask-path-effect7)"
+       d="m 291.04167,52.916668 a 79.375,79.375 0 0 1 -79.375,79.375002 79.375,79.375 0 0 1 -79.375,-79.375002 79.375,79.375 0 0 1 79.375,-79.375 79.375,79.375 0 0 1 79.375,79.375 z" />
+    <path
+       style="fill:#300a24;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path1-1"
+       mask="url(#mask-powermask-path-effect8)"
+       d="m 132.29167,211.66667 a 79.375,79.375 0 0 1 -79.375002,79.375 79.375,79.375 0 0 1 -79.375,-79.375 79.375,79.375 0 0 1 79.375,-79.375 79.375,79.375 0 0 1 79.375002,79.375 z" />
+    <path
+       style="fill:#300a24;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path1-2"
+       mask="url(#mask-powermask-path-effect9)"
+       d="m 291.04167,211.66667 a 79.375,79.375 0 0 1 -79.375,79.375 79.375,79.375 0 0 1 -79.375,-79.375 79.375,79.375 0 0 1 79.375,-79.375 79.375,79.375 0 0 1 79.375,79.375 z" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>yuito723</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
