@@ -12,7 +12,7 @@ class Window():
 
         self.master.resizable(False, False)
         self.master.iconbitmap(common.ICON_PATH)
-        self.master.title(f"WireGuardConfigurationGenerator-v{common.VERSION}")
+        self.master.title(f"{common.PRODUCT_NAME}-v{common.VERSION}")
         self.master.focus_force()
 
         self.main()
